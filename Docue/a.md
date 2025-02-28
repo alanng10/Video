@@ -33,3 +33,5 @@ Video has park kind land.
 Video has park kind arch.
 
 Video has park kind arch worth.
+
+Video effect compute can be implemented with parallel compute effect.
