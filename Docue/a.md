@@ -62,6 +62,6 @@ Video effect compute can be implemented with parallel compute effect.
 
 Video has prerequisite.
 
-Video requires math comp maides of math value 60 bits.
+Video requires compute effect of math value 60 bits.
 
 Video requires compute effect of 2 ^52 triangles per 2^-30 day duration.
